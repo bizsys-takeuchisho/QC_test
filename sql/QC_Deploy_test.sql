@@ -9,4 +9,3 @@ CREATE TABLE Worker
  wage         INTEGER       NOT NULL,
  position     INTEGER       NOT NULL,
  PRIMARY KEY (worker_id));
- -- This is a re-added file for testing
