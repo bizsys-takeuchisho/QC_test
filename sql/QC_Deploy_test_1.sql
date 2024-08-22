@@ -7,5 +7,4 @@ CREATE TABLE Worker
  hire_date    DATE          NOT NULL,
  department   INTEGER       NOT NULL,
  wage         INTEGER       NOT NULL,
- position     INTEGER       NOT NULL,
  PRIMARY KEY (worker_id));
