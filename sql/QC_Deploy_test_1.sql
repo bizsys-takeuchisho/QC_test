@@ -1,4 +1,4 @@
-CREATE TABLE Worker
+CREATE TABLE Worker1
 (worker_id    CHAR(5)       NOT NULL,
  name         VARCHAR(20)   NOT NULL,
  birthday     DATE          NOT NULL,
