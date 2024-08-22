@@ -6,5 +6,4 @@ CREATE TABLE Worker
  prefecture   VARCHAR(50)   NOT NULL,
  hire_date    DATE          NOT NULL,
  department   INTEGER       NOT NULL,
- wage         INTEGER       NOT NULL,
  PRIMARY KEY (worker_id));
